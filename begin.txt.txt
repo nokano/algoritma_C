@@ -1,0 +1,3 @@
+in this file begin.cpp it is use a library iostream
+this library make we can use a cout code
+cout function to show or output word or something type data we want to show in cmd
