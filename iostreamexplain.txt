@@ -1,0 +1,4 @@
+in this file cout.cpp and cin.cpp  use a library iostream
+this library make we can use a cout code and cin code
+cout function to show or output word or something type data we want to show in cmd
+cin function to input some value or word or string or char to variable that we want to make 
